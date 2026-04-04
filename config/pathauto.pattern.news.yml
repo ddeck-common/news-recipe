@@ -1,0 +1,21 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: news
+label: News
+type: 'canonical_entities:node'
+pattern: 'news/[node:field_news_section:entity:name]/[node:title]'
+selection_criteria:
+  b9bf7d64-01a8-42cd-a889-c6c656d109b9:
+    id: 'entity_bundle:node'
+    negate: false
+    uuid: b9bf7d64-01a8-42cd-a889-c6c656d109b9
+    context_mapping:
+      node: node
+    bundles:
+      news: news
+selection_logic: and
+weight: -5
+relationships: {  }

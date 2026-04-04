@@ -1,0 +1,15 @@
+{
+    "name": "ddeck/news-recipe",
+    "type": "drupal-recipe",
+    "require": {
+        "drupal/color_field": "^3.0",
+        "drupal/entity_stretched_link": "^1.0@alpha",
+        "drupal/field_formatter_class": "^1.8",
+        "drupal/field_group": "^4.0.0",
+        "drupal/focal_point": "^2.1.2",
+        "drupal/helper_class": "^1.0@alpha",
+        "drupal/pathauto": "^1.14",
+        "drupal/tagify": "^1.2.50",
+        "npm-asset/yaireo--tagify": "^4.36"
+    }
+}

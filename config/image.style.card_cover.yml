@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - focal_point
+    - helper_class
+third_party_settings:
+  helper_class:
+    helper_class_values: 'w-100 card-img-top'
+name: card_cover
+label: 'Card cover'
+effects:
+  b39dfc9b-3548-4044-b59a-2c29f05e49da:
+    uuid: b39dfc9b-3548-4044-b59a-2c29f05e49da
+    id: focal_point_scale_and_crop
+    weight: 1
+    data:
+      width: 320
+      height: 200
+      crop_type: focal_point
