@@ -1,5 +1,5 @@
 {
-    "name": "ddeck/news-recipe",
+    "name": "d-deck/news-recipe",
     "type": "drupal-recipe",
     "require": {
         "drupal/color_field": "^3.0",
