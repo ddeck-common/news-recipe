@@ -8,6 +8,7 @@
         "drupal/field_group": "^4.0.0",
         "drupal/focal_point": "^2.1.2",
         "drupal/helper_class": "^1.0@alpha",
+        "drupal/manage_display": "^3.0",
         "drupal/pathauto": "^1.14",
         "drupal/tagify": "^1.2.50",
         "npm-asset/yaireo--tagify": "^4.36"

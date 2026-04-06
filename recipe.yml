@@ -11,6 +11,7 @@ install:
   - field_group
   - focal_point
   - helper_class
+  - manage_display
   - pathauto
   - tagify
   - tagify_user_list
