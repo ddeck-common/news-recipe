@@ -1,5 +1,5 @@
 {
-    "name": "d-deck/news-recipe",
+    "name": "ddeck-common/news-recipe",
     "type": "drupal-recipe",
     "require": {
         "ddeck-common/base": "^1.0",
