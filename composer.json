@@ -2,6 +2,7 @@
     "name": "d-deck/news-recipe",
     "type": "drupal-recipe",
     "require": {
+        "ddeck-common/base": "^1.0",
         "drupal/color_field": "^3.0",
         "drupal/entity_stretched_link": "^1.0@alpha",
         "drupal/field_formatter_class": "^1.8",
