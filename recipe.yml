@@ -13,6 +13,7 @@ install:
   - helper_class
   - manage_display
   - pathauto
+  - scheduler
   - tagify
   - tagify_user_list
 config:
